@@ -8,7 +8,7 @@
 ---
 
 ## Enumeración
-
+La enumeración inicial se automatizó con un script propio (enum_basic_v2.py) que genera ping.txt, nmap_fast.txt y nmap_full.txt.
 ### Conectividad
 El objetivo responde a ICMP y presenta un TTL cercano a 64, lo que sugiere un sistema Linux.
 
